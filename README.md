@@ -1,3 +1,3 @@
-edgarmarquez.github.oi
+edgarmarquez.github.io
 ======================
 This is my first set up on GH.
